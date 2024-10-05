@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.3.
 
+ng deploy --base-href=/bernicetempleman1.github.io/virtual-taco-stand/ --repo=https://github.com/bernicetempleman1/virtual-taco-stand
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
